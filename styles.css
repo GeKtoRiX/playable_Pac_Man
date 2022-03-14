@@ -1,0 +1,2 @@
+#canvas{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%)}
+body{margin:0;background-color:#000}.gameScore{position:absolute;top:20%;left:50%;transform:translate(-50%, -20%);padding:5px;font-size:20px;font-family:sans-serif;color:#faebd7}
